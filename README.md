@@ -100,10 +100,6 @@ I would be happy to see contributors create new branches, implement these upgrad
 
 Feel free to open an issue or submit a pull request.
 
-## Validation Notice
-
-The project has been modularized, but it has not yet been independently validated through a complete MATLAB/Octave execution in this release. Please verify the results against suitable reference cases before using them for engineering decisions.
-
 ## License
 
 A formal open-source license has not yet been assigned. Please check the repository license before redistribution or reuse.
