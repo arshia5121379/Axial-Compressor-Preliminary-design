@@ -51,6 +51,7 @@ The modular version contains 66 separate function files, organized according to 
 
 - MATLAB R2016b or newer is recommended.
 - Keep the original folder structure intact.
+- Needs REFPROP library
 
 ## How to Run
 
